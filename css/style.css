@@ -58,3 +58,9 @@ main{
     margin: 10px;
     width: calc(50% - 20px);
 }
+
+footer{
+    height: 25px;
+    background-color: #8801FE;
+    margin-top: 10px;
+}
